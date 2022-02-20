@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="icon" href="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png" type="image/x-icon">
+    <!-- <link rel="icon" href="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png" type="image/x-icon"> -->
     <style>
     input[type=text], select {
         width: 100%;
@@ -45,7 +45,7 @@
 <body>
 <div class="jumbotron text-center">
     <h1>Get City by State by Country</h1>
-    <p>https://codingbirdsonline.com</p>
+    <!-- <p>https://codingbirdsonline.com</p> -->
 </div>
 
 <?php
